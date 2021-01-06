@@ -1,0 +1,13 @@
+Se citeste de la tastatura un numar reprezentand temperatura masurata in Celsius / Fahrenheit/Kelvin. Convertiti numarul in cele 3 unitati de masura. (precizie 2 zecimale)
+Input (tip u.m/valoare)         Output (Fahrenheit, Celsius, Kelvin)
+C 0	                                  32.00 0.00 273.15
+
+Input             Output
+K 42             -384.07 -231.15 42.00
+
+Input             Output
+F 0               0.00 -17.78 255.37
+
+
+Se dau doua intervale orare specificate prin ore, minute si secunde (hh:mm:ss). Determinati numarul de ore, minute si secunde dintre cele doua intervale. Se considera timpul de la primul interval la al doilea.
+23:00:00 -> 01:00:00 reprezinta 2 ore de la 23 la 01, nu de la 01 la 23

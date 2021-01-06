@@ -1,0 +1,12 @@
+Se citeste un numar N. Sa se gaseasca cel mai mare numar putere al lui 2, mai
+mic sau egal decat N.
+
+Input:          Output:
+13              8
+
+
+Se dau doua numere N si M. Sa se determine cati biti ar trebui sa fie
+schimbati in N pentru a deveni egal cu M.
+
+Input:              Output:
+10 8                1

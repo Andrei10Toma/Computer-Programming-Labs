@@ -1,0 +1,18 @@
+Se citeste o matrice cu N linii si M coloane. Pentru liniile pare sa se afize minimul, iar pentru cele impare sa se afiseze maximul. Fiecare minim/maxim va fi printat pe o linie separata in formatul “nr_linie: min = x” pentru linii pare, “nr_linie: max = y” pentru linii impare, iar index-ul nr_linie va incepe de la 1, reprezentarea tabloului incepand de la 0.
+
+
+Input
+3 3             Output
+1 2 3           1: min = 1
+4 5 6           2: max = 6
+7 10 12         3: min = 7
+
+
+Se citeste o matrice cu N linii si M coloane. Sa se afiseze matricea in zig-zag (pe linii)
+
+
+Input               Output
+3 3
+1 2 3               1 2 3 6 5 4 7 8 9
+4 5 6
+7 8 9
